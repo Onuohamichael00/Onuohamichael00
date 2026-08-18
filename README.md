@@ -2,7 +2,7 @@
 
 ### Data Analyst | SQL | Excel | Power BI
 
-I'm an aspiring Data Analyst focused on using data to understand business problems, uncover meaningful insights, and support data-driven decision-making.
+I'm a Data Analyst focused on using data to understand business problems, uncover meaningful insights, and support data-driven decision-making.
 
 I enjoy transforming raw data into structured analysis and business insights, with a particular interest in sales, profitability, supply chain, operations, and business performance analytics.
 
